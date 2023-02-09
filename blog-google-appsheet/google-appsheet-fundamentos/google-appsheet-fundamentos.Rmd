@@ -5,3 +5,6 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+
+AppSheet es un producto desarrollado por la empresa Google que proporciona una plataforma de desarrollo sin código que permite a los usuarios crear aplicaciones móviles, para tabletas y web, utilizando fuentes de datos como Google Sheets, DropBox  y otras plataformas de bases de datos basadas en la nube.
